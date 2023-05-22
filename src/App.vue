@@ -7,6 +7,7 @@ import NavBarView from './views/NavBarView.vue'
   <header class="container position-sticky z-index-sticky top-0">
     <NavBarView />
   </header>
+
   <main class="container">
     <div class="card">
       <div class="card-body">
@@ -14,8 +15,8 @@ import NavBarView from './views/NavBarView.vue'
       </div>
     </div>
   </main>
-  <footer>
-    
+  <footer class="h-25">
+
   </footer>
 </template>
 
@@ -30,8 +31,12 @@ header {
   margin: 0 auto 2rem;
 }
 
-main>.card{
-  margin-top: 25%;
+main>.card {
+  margin-top: 20%;
+}
+
+footer{
+  background-color: midnightblue;
 }
 
 /* nav {

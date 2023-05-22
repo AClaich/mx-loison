@@ -3,7 +3,7 @@
         <div class="row">
             <div class="col-12 col-lg-6"></div>
             <div class="col-12 col-lg-6">
-                <h1 class="mb-5">DIPLÔMES & CERTIFICATION</h1>
+                <h1 class="mb-5">Diplômes & certifications</h1>
                 <p>
                     Examen d’Aptitude Technique en danse contemporaine - 2020<br><br>
                     Diplôme d’Etat de Professeure de danse contemporaine - 2022<br><br>
