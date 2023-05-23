@@ -4,39 +4,36 @@ import NavBarView from './views/NavBarView.vue'
 </script>
 
 <template>
-  <header class="container position-sticky z-index-sticky top-0">
+  <header class="container position-sticky z-index-sticky top-0 pt-5">
     <NavBarView />
   </header>
 
-  <main class="container">
-    <div class="card">
+  <div class="container">
+    <div class="card blur">
       <div class="card-body">
         <RouterView />
       </div>
     </div>
-  </main>
-  <footer class="h-25">
+  </div>
+
+  <footer class="blur">
 
   </footer>
 </template>
 
 <style scoped>
-header {
-  /* line-height: 1.5; */
-  /* max-height: 100vh; */
-}
-
-.logo {
-  display: block;
-  margin: 0 auto 2rem;
-}
-
-main>.card {
+div>.card {
   margin-top: 20%;
+  border-radius: 0.375rem 0.375rem 0 0;
+  height: 100vh;
 }
 
 footer{
-  background-color: midnightblue;
+  /* background-color: midnightblue; */
+}
+
+.z-index-sticky {
+  z-index: 1020;
 }
 
 /* nav {
@@ -64,22 +61,20 @@ nav a:first-of-type {
   border: 0;
 } */
 
+@media (min-width: 1440px) {
+  div>.card {
+  margin-top: 15%;
+  border-radius: 0.375rem 0.375rem 0 0;
+  height: 100vh;
+}
+}
+
 @media (min-width: 1024px) {
   /* header {
     display: flex;
     place-items: center;
     padding-right: calc(var(--section-gap) / 2);
   } */
-
-  .logo {
-    margin: 0 2rem 0 0;
-  }
-
-  header .wrapper {
-    /* display: flex;
-    place-items: flex-start;
-    flex-wrap: wrap; */
-  }
 
   /* nav {
     text-align: left;

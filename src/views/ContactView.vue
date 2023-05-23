@@ -6,7 +6,7 @@
                 <h1 class="mb-5">Contact</h1>
                 <div class="row">
                     <textarea class="form-control col-6" aria-label="With textarea"></textarea>
-                    <button type="button" class="btn btn-primary" @click="onClick">Primary</button>
+                    <button type="button" class="btn btn-primary" @click="onClick">Envoyer</button>
                 </div>
             </div>
         </div>

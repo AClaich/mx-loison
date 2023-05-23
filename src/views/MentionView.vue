@@ -6,13 +6,12 @@
                 <h1 class="mb-5">Mentions légales</h1>
                 <p>
                     Raison sociale : Margaux Loison
-                    Numéro SIRET : [Numéro SIRET]
+                    Numéro SIRET : 918 212 796 00018
 
                     1. Présentation du site web
-
                     Le présent site web est exploité par Margaux Loison, une entreprise légalement constituée et
-                    enregistrée sous le numéro SIRET [Numéro SIRET]. Ce site a été créé dans le but de présenter les
-                    compétences et le travail de [Nom de la professeur de danse], professeur de danse.
+                    enregistrée sous le numéro SIRET 918 212 796 00018. Ce site a été créé dans le but de présenter les
+                    compétences et le travail de Margaux Loison, professeure de danse.
 
                     2. Propriété intellectuelle
 
@@ -20,11 +19,11 @@
 
                     Tous les éléments constituant ce site web, tels que les textes, les photographies, les vidéos, les
                     graphiques, les logos, les icônes, ainsi que le design et la mise en page, sont la propriété exclusive
-                    de [Nom de la société] ou sont utilisés avec l'autorisation de leurs propriétaires respectifs. Ils sont
+                    de Margaux Loison ou sont utilisés avec l'autorisation de leurs propriétaires respectifs. Ils sont
                     protégés par les lois françaises et internationales relatives à la propriété intellectuelle.
 
                     Toute reproduction, distribution, modification, adaptation, représentation ou exploitation, partielle ou
-                    intégrale, du contenu du site, sans l'autorisation préalable écrite de [Nom de la société] ou du
+                    intégrale, du contenu du site, sans l'autorisation préalable écrite de Margaux Loison ou du
                     titulaire des droits concernés, est strictement interdite et pourrait donner lieu à des poursuites
                     judiciaires.
 
@@ -35,13 +34,30 @@
                     leur utilisation est strictement réservée à ce site web.
 
                     Toute reproduction, diffusion ou utilisation des photographies présentes sur ce site sans l'autorisation
-                    préalable écrite du photographe et de Margaux est interdite. Les photographies ne peuvent
+                    préalable écrite du photographe et de Margaux Loison est interdite. Les photographies ne peuvent
                     être téléchargées, copiées ou utilisées d'aucune manière sans l'autorisation explicite du titulaire des
                     droits d'auteur.
 
-                    Protection des données personnelles
+                    2.3 Design du site
 
-                    3.1 Collecte de données personnelles
+                    Le design du site, incluant la mise en page, les éléments graphiques et visuels, est la propriété
+                    exclusive de Margaux Loison ou a été utilisé avec l'autorisation de ses propriétaires respectifs.
+                    Il est protégé par les lois sur la propriété intellectuelle. Toute reproduction, modification,
+                    adaptation ou utilisation non autorisée du design du site est strictement interdite.
+
+                    3. Utilisation du site
+
+                    3.1 Hébergement
+
+                    Le site web est hébergé par Hostinger, un prestataire de services d'hébergement réputé.
+
+                    3.2 Production
+
+                    Le site a été entièrement produit par Alexis Claich. Tout le code
+                    source, les fonctionnalités et les éléments interactifs du site sont protégés par les lois sur la
+                    propriété intellectuelle et leur utilisation non autorisée est strictement interdite.
+
+                    4. Protection des données personnelles
 
                     Ce site web ne collecte pas de données personnelles par le biais de cookies ou d'autres technologies de
                     suivi. Cependant, certaines données personnelles peuvent être collectées lorsque vous nous contactez via
@@ -49,20 +65,20 @@
                     manière transparente et dans le respect des lois en vigueur, notamment du Règlement général sur la
                     protection des données (RGPD).
 
-                    3.2 Utilisation des données personnelles
-
                     Les données personnelles que vous nous communiquez lorsque vous nous contactez par e-mail ou par
                     téléphone sont utilisées dans le but de répondre à vos demandes et de vous fournir les informations ou
                     les services que vous avez sollicités. Elles ne sont pas communiquées à des tiers sans votre
                     consentement préalable, sauf lorsque cela est nécessaire pour assurer la prestation des services
                     demandés ou en cas d'obligation légale.
 
-                    3.3 Sécurité des données
+                    5. Informations de contact
 
-                    Margaux Loison s'engage à prendre toutes les mesures nécessaires pour assurer la sécurité et la
-                    confidentialité des données personnelles collectées lors de la prise de contact. Toutefois, il est
-                    important de noter qu'aucune méthode de transmission ou de stockage des données sur Internet n'est
-                    totalement sécurisée
+                    Margaux Loison
+
+                    Téléphone : 07.69.55.15.26
+                    E-mail : margauxloisonpro@gmail.com
+
+                    Le présent document a été mis à jour le 23/05/2023.
                 </p>
             </div>
         </div>
@@ -79,4 +95,5 @@
   } */
 p {
     text-align: justify;
-}</style>
+}
+</style>
