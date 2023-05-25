@@ -34,7 +34,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/Photo Margaux Danse-200.jpg" class="img-paysage" />
+        <img src="../assets/img/carousel/_DSC9340_4151.jpg" class="img-special" />
       </div>
       <div class="col-12 col-lg-6 px-0 px-md-5 d-md-flex align-items-center d-none">
         <p>
@@ -60,7 +60,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/Photo Margaux Danse-141.jpg" class="img-portrait" />
+        <img src="../assets/img/Photo Margaux Danse  NB-004 (1).jpg" class="img-portrait" />
       </div>
     </div>
     <div class="row">
@@ -95,11 +95,15 @@ p {
 }
 
 .img-portrait {
-  width: 50%;
+  width: 85%;
 }
 
 .img-paysage {
-  width: 75%;
+  width: 85%;
+}
+
+.img-special {
+  width: 85%;
 }
 
 @media (min-width: 991px) {
@@ -109,6 +113,20 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
+  }
+}
+
+@media (min-width: 400px) {
+  .img-portrait {
+    width: 50%;
+  }
+
+  .img-paysage {
+    width: 75%;
+  }
+
+  .img-special {
+    width: 65%;
   }
 }
 </style>

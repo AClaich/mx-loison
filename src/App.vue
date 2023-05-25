@@ -32,7 +32,7 @@ import NavBarView from './views/NavBarView.vue'
 
 <style scoped>
 div>.card {
-  margin-top: 15%;
+  margin-top: 20%;
   border-radius: 0.375rem 0.375rem 0 0;
   height: fit-content;
 }
@@ -41,7 +41,7 @@ footer {
   background-color: white;
   width: 100%;
   font-size: medium;
-  color:black
+  color:black;
 }
 footer > a {
   color:black
@@ -76,9 +76,17 @@ nav a:first-of-type {
   border: 0;
 } */
 
+@media (min-width: 400px) {
+  div>.card {
+    margin-top: 8%;
+    border-radius: 0.375rem 0.375rem 0 0;
+    height: fit-content;
+  }
+}
+
 @media (min-width: 1537px) {
   div>.card {
-    margin-top: 20%;
+    margin-top: 12%;
     border-radius: 0.375rem 0.375rem 0 0;
     height: fit-content;
   }

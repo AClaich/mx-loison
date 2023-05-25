@@ -1,18 +1,15 @@
 <template>
   <div class="container">
-    <div class="row">
-      <div class="col-12 col-lg-6"></div>
-      <div class="col-12 col-lg-6">
-        <h1>Margaux Loison</h1>
-
-        <p>
-          “Le danseur ne porte-t-il pas son oreille - dans ses orteils!” - F. Nietzsche
-
-          Professeure de danse contemporaine - voyageuse - joueuse
-
-        </p>
-      </div>
+    <h1 class="mb-3 text-center">Margaux Loison</h1>
+    <h4 class="mb-2 text-center">
+      Professeure de danse contemporaine
+    </h4>
+    <div class="text-center">
+      <img src="../assets/img/Photo Margaux Danse-075.jpg" class="img-accueil" />
     </div>
+    <p>
+      <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i>- F. Nietzsche
+    </p>
   </div>
 </template>
 
@@ -25,6 +22,16 @@
   }
 } */
 p {
-  text-align: justify;
+  text-align: center;
+}
+
+.img-accueil {
+  width: 80%;
+}
+
+@media (min-width: 400px) {
+  .img-accueil {
+    width: 38%;
+  }
 }
 </style>

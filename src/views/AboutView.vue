@@ -42,7 +42,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/Photo Margaux Danse-065.jpg" class="img-portrait" />
+        <img src="../assets/img/Photo Margaux Danse-195.jpg" class="img-portrait" />
       </div>
     </div>
 
@@ -57,14 +57,14 @@
           Danser pour jouer : s’amuser à se tromper (parce que l’erreur amène à la création); improviser; ne plus penser;
           bref : se libérer.
           <br><br>
-          Dernièrement, ma formation Pilates Initial au sein du CREPS de Toulouse affine ma pédagogie en termes de
+          <!-- Dernièrement, ma formation Pilates Initial au sein du CREPS de Toulouse affine ma pédagogie en termes de
           préparation
           physique. Je vois la méthode Pilates comme un outil complémentaire à la danse, permettant de bien préparer le
-          corps pour un engagement physique comme le travail du Floor Work.
+          corps pour un engagement physique comme le travail du Floor Work. -->
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/Photo Margaux Danse-065.jpg" class="img-portrait" />
+        <img src="../assets/img/Photo Margaux Danse-200.jpg" class="img-paysage" />
       </div>
       <div class="col-12 col-lg-6 px-0 px-md-5 d-md-flex align-items-center d-none">
         <p>
@@ -76,10 +76,10 @@
           Danser pour jouer : s’amuser à se tromper (parce que l’erreur amène à la création); improviser; ne plus penser;
           bref : se libérer.
           <br><br>
-          Dernièrement, ma formation Pilates Initial au sein du CREPS de Toulouse affine ma pédagogie en termes de
+          <!-- Dernièrement, ma formation Pilates Initial au sein du CREPS de Toulouse affine ma pédagogie en termes de
           préparation
           physique. Je vois la méthode Pilates comme un outil complémentaire à la danse, permettant de bien préparer le
-          corps pour un engagement physique comme le travail du Floor Work.
+          corps pour un engagement physique comme le travail du Floor Work. -->
         </p>
       </div>
     </div>
