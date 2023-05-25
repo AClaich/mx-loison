@@ -17,19 +17,34 @@ import NavBarView from './views/NavBarView.vue'
   </div>
 
   <footer class="blur">
-
+    <div class="container py-2">
+      <div class="row">
+        <div class="col-6">
+          © 2023 <a href="/contact">Margaux Loison & Alexis Claich</a>
+        </div>
+        <div class="col-6 text-end">
+          <a href="/mention">Mentions légales & politiques</a>
+        </div>
+      </div>
+    </div>
   </footer>
 </template>
 
 <style scoped>
 div>.card {
-  margin-top: 20%;
+  margin-top: 15%;
   border-radius: 0.375rem 0.375rem 0 0;
-  height: 100vh;
+  height: fit-content;
 }
 
-footer{
-  /* background-color: midnightblue; */
+footer {
+  background-color: white;
+  width: 100%;
+  font-size: medium;
+  color:black
+}
+footer > a {
+  color:black
 }
 
 .z-index-sticky {
@@ -61,12 +76,12 @@ nav a:first-of-type {
   border: 0;
 } */
 
-@media (min-width: 1440px) {
+@media (min-width: 1537px) {
   div>.card {
-  margin-top: 15%;
-  border-radius: 0.375rem 0.375rem 0 0;
-  height: 100vh;
-}
+    margin-top: 20%;
+    border-radius: 0.375rem 0.375rem 0 0;
+    height: fit-content;
+  }
 }
 
 @media (min-width: 1024px) {

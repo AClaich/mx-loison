@@ -1,12 +1,19 @@
 <template>
-    <div class="container">
-        <div class="row">
-            <div class="col-12 col-lg-6"></div>
-            <div class="col-12 col-lg-6">
-                <h1>This is an home page</h1>
-            </div>
-        </div>
+  <div class="container">
+    <div class="row">
+      <div class="col-12 col-lg-6"></div>
+      <div class="col-12 col-lg-6">
+        <h1>Margaux Loison</h1>
+
+        <p>
+          “Le danseur ne porte-t-il pas son oreille - dans ses orteils!” - F. Nietzsche
+
+          Professeure de danse contemporaine - voyageuse - joueuse
+
+        </p>
+      </div>
     </div>
+  </div>
 </template>
 
 <style>
@@ -17,6 +24,7 @@
     align-items: center;
   }
 } */
-p{
+p {
   text-align: justify;
-}</style>
+}
+</style>

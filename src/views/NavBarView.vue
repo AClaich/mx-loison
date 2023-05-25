@@ -28,15 +28,21 @@
                     </li>
                 </ul>
                 <div class="row">
-                    <a class="col-6 text-center align-middle" role="button" style="width: fit-content" href="">
+                    <a class="col-6 text-center align-middle" role="button" style="width: fit-content"
+                        href="mailto:margauxloisonpro@gmail.com" target=”_blank”>
+                        <i class="bi bi-envelope"></i>
+                    </a>
+                    <a class="col-6 text-center align-middle" role="button" style="width: fit-content"
+                        href="https://www.instagram.com/margauxloison.pro/" target=”_blank”>
                         <i class="bi bi-instagram" id="insta" aria-hidden="true"></i>
                     </a>
-                    <a class="col-6 text-center" role="button" style="width: fit-content" href="">
+                    <a class="col-6 text-center" role="button" style="width: fit-content"
+                        href="https://www.facebook.com/profile.php?id=100093111573881" target=”_blank”>
                         <i class="bi bi-facebook" id="facebook" aria-hidden="true"></i>
                     </a>
-                    <a class="col-6 text-danger text-center" role="button" style="width: fit-content" href="">
+                    <!-- <a class="col-6 text-danger text-center" role="button" style="width: fit-content" href="" target=”_blank”>
                         <i class="bi bi-youtube" id="youtube" aria-hidden="true"></i>
-                    </a>
+                    </a> -->
                 </div>
             </div>
         </div>
@@ -46,12 +52,12 @@
 <style>
 @import url('https://fonts.googleapis.com/css?family=Poiret+One');
 
-nav{
+nav {
     font-family: 'Poiret One', sans-serif;
     font-size: 20px;
 }
 
-.title{
+.title {
     font-size: 22px;
 }
 
@@ -59,7 +65,7 @@ nav{
     font-size: 22px;
 }
 
-#facebook {
+#facebook, #linkedin {
     color: #3b5998;
     font-size: 22px;
 }
