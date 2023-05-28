@@ -15,7 +15,7 @@
   font-family: 'Raleway', sans-serif;
   /* font-family: 'Montserrat', sans-serif; */
 
-  background-image: url('../assets/img/Photo Margaux Danse -056.jpg');
+  background-image: url('../assets/img/BackgroundMobile.jpg');
   background-repeat: no-repeat;
   background-size: 145%;
   background-attachment: fixed;
@@ -23,7 +23,7 @@
 
 @media (min-width: 400px) {
   #app {
-    background-image: url('../assets/img/background4.jpg');
+    background-image: url('../assets/img/background.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
     background-attachment: fixed;

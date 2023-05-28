@@ -4,12 +4,17 @@
     <h4 class="mb-2 text-center">
       Professeure de danse contemporaine
     </h4>
-    <div class="text-center">
-      <img src="../assets/img/Photo Margaux Danse-075.jpg" class="img-accueil" />
+    <div class="text-center mb-3">
+      <img src="../assets/img/PhotoHome.jpg" class="img-accueil" />
     </div>
-    <p>
-      <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i>- F. Nietzsche
+    <p class="d-none d-lg-flex">
+      <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i> <br class="d-lg-none d-flex"> &nbsp; - F.
+      Nietzsche
     </p>
+    <div class="d-lg-none d-block text-center mb-4">
+      <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i>
+      - F. Nietzsche
+    </div>
   </div>
 </template>
 

@@ -8,7 +8,7 @@ import NavBarView from './views/NavBarView.vue'
     <NavBarView />
   </header>
 
-  <div class="container">
+  <div class="container h-100">
     <div class="card blur">
       <div class="card-body">
         <RouterView />
@@ -17,12 +17,13 @@ import NavBarView from './views/NavBarView.vue'
   </div>
 
   <footer class="blur">
-    <div class="container py-2">
-      <div class="row">
-        <div class="col-6">
-          © 2023 <a href="/contact">Margaux Loison & Alexis Claich</a>
+    <div class="container">
+      <div class="row row-footer pt-3 justify-content-around">
+        <div class="col-6 col-lg-4 d-flex align-items-center">
+          Copyright © 2023 Margaux Loison
+
         </div>
-        <div class="col-6 text-end">
+        <div class="col-6 col-lg-4 text-end">
           <a href="/mention">Mentions légales & politiques</a>
         </div>
       </div>
@@ -39,12 +40,22 @@ div>.card {
 
 footer {
   background-color: white;
+  position: absolute;
+  bottom: 0;
   width: 100%;
+  height: 60px;
+  min-height: fit-content;
+  line-height: 60px;
   font-size: medium;
-  color:black;
+  color: black;
 }
-footer > a {
-  color:black
+
+.row-footer {
+  line-height: normal;
+}
+
+footer>a {
+  color: black
 }
 
 .z-index-sticky {
@@ -81,6 +92,7 @@ nav a:first-of-type {
     margin-top: 8%;
     border-radius: 0.375rem 0.375rem 0 0;
     height: fit-content;
+    min-height: 100%;
   }
 }
 
@@ -89,6 +101,12 @@ nav a:first-of-type {
     margin-top: 12%;
     border-radius: 0.375rem 0.375rem 0 0;
     height: fit-content;
+  }
+}
+
+@media (min-height: 926px) {
+  div>.card {
+    /* min-height: 620px; */
   }
 }
 

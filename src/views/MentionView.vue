@@ -1,7 +1,7 @@
 <template>
-    <div class="container">
+    <div class="container px-0 px-lg-5">
         <h1 class="mb-5">Mentions légales</h1>
-        <div>
+        <div class="mb-4">
             Raison sociale : Margaux Loison<br>
             Numéro SIRET : 918 212 796 00018
             <br><br>
@@ -32,7 +32,8 @@
             leur utilisation est strictement réservée à ce site web.<br>
 
             Toute reproduction, diffusion ou utilisation des photographies présentes sur ce site sans l'autorisation
-            préalable écrite du photographe, Stéphan Gabrielli, et de Margaux Loison est interdite. Les photographies ne peuvent
+            préalable écrite du photographe, Stéphan Gabrielli, et de Margaux Loison est interdite. Les photographies ne
+            peuvent
             être téléchargées, copiées ou utilisées d'aucune manière sans l'autorisation explicite du titulaire des
             droits d'auteur.<br><br>
 
@@ -71,12 +72,27 @@
 
             5. <b>Informations de contact</b><br><br>
 
-            Margaux Loison<br>
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    Margaux Loison<br><br>
 
-            Téléphone : 07.69.55.15.26<br>
-            E-mail : margauxloisonpro@gmail.com<br><br>
+                    E-mail : <a href="mailto:margauxloisonpro@gmail.com"> margauxloisonpro@gmail.com</a><br>
+                    Instagram : <a href="https://www.instagram.com/margauxloison.pro/" target=”_blank”>Margauxloison.pro</a><br>
+                    Facebook : <a href="https://www.facebook.com/profile.php?id=100093111573881" target=”_blank”>Margaux Loison
+                        pro</a><br><br>
+                </div>
+                <div class="col-12 col-lg-6">
+                    Stéphan Gabrielli<br><br>
 
-            Le présent document a été mis à jour le 23/05/2023.<br>
+                    Site : <a href="http://stephan-photographe.fr/" target=”_blank”>Stephan-photographe</a><br>
+                    Instagram : <a
+                        href="https://www.instagram.com/stephan_photographies_pro/" target=”_blank”>Stephan_photographies_pro</a><br>
+                    Facebook : <a href="https://facebook.com/StephanPhotographies" target=”_blank”>Stephan Photographies</a><br><br>
+                </div>
+            </div>
+
+
+            Le présent document a été mis à jour le 27/05/2023.<br>
         </div>
     </div>
 </template>

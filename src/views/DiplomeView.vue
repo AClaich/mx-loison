@@ -1,43 +1,18 @@
 <template>
     <div class="container">
-        <div class="row mb-5">
-            <!-- <div class="p-5 col-12 col-lg-6 d-flex justify-content-center align-items-center">
-                <div id="carouselExampleFade" class="carousel slide " data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src="../assets/img/carousel/2960.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="../assets/img/carousel/_DSC9340_4151.jpg" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="../assets/img/carousel/DHP_4159.JPG" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="../assets/img/carousel/DHP_4183.JPG" class="d-block w-100" alt="...">
-                        </div>
-                        <div class="carousel-item">
-                            <img src="../assets/img/carousel/miniature2.jpeg" class="d-block w-100" alt="...">
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade"
-                        data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Précédent</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
-                        data-bs-slide="next">
-                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                        <span class="visually-hidden">Suivant</span>
-                    </button>
-                </div>
-            </div> -->
-            <div class="py-5 p-md-5 col-12 col-lg-6 d-flex justify-content-center align-items-center">
-                <img src="../assets/img/carousel/_DSC9338_4149.jpg" class="img-diplome mt-5" alt="...">
+        <div class="row">
+            <div class="col-12 col-lg-6">
             </div>
             <div class="col-12 col-lg-6">
-                <h1 class="mb-5">Diplômes & certifications</h1>
-                <div class="text-start">
+                <h1 class="mb-5 p-0 px-lg-5 titre-center">Diplômes & certifications</h1>
+            </div>
+        </div>
+        <div class="row mb-5">
+            <div class="col-12 col-lg-6 text-center mb-5">
+                <img src="../assets/img/PhotoDiplome.jpg" class="img-diplome" alt="...">
+            </div>
+            <div class="col-12 col-lg-6 d-flex align-items-center">
+                <p class="px-0 ps-lg-5 text-start">
                     Examen d’Aptitude Technique en danse contemporaine - 2020
                     <br><br>
                     Diplôme d’Etat de Professeure de danse contemporaine - 2022
@@ -48,7 +23,7 @@
                     <br><br>
                     Certificat Formation Pilates Initial - 2023
                     <br><br>
-                </div>
+                </p>
             </div>
         </div>
     </div>

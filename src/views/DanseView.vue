@@ -1,12 +1,14 @@
 <template>
   <div class="container">
     <div class="row">
-      <div class="col-12 text-center">
-        <h1 class="mb-5">Le cours de danse</h1>
+      <div class="col-12 col-lg-6">
+      </div>
+      <div class="col-12 col-lg-6">
+        <h1 class="mb-5 p-0 px-lg-5 text-center">Le cours de danse</h1>
       </div>
     </div>
     <div class="row mb-5">
-      <div class="col-12 col-lg-6 px-0 px-md-5 d-flex align-items-center">
+      <div class="col-12 col-lg-6 px-0 d-flex align-items-center d-lg-none">
         <p>
           Un mot prédomine au sein de mes cours : le jeu. Dans une ambiance ludique et bienveillante, je vous invite à
           venir
@@ -17,12 +19,22 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/Photo Margaux Danse-065.jpg" class="img-portrait" />
+        <img src="../assets/img/PhotoDanse1.jpg" class="img-portrait" />
+      </div>
+      <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
+        <p class="px-0 px-lg-5">
+          Un mot prédomine au sein de mes cours : le jeu. Dans une ambiance ludique et bienveillante, je vous invite à
+          venir
+          prendre conscience de votre corps, et de son potentiel. Danser dans le respect de ses possibilités
+          morphologiques et
+          physiologiques, mais surtout danser pour se faire plaisir. Venez apprendre à allier la rigueur du travail à
+          l’amusement.
+        </p>
       </div>
     </div>
     <div class="row mb-5">
-      <div class="col-12 col-lg-6 px-0 px-md-5 d-flex align-items-center d-md-none">
-        <p>
+      <div class="col-12 col-lg-6 d-flex align-items-center">
+        <p class="px-0 px-lg-5">
           Inspirée par l’univers de la modern dance allemande, mon écriture chorégraphique met l’accent sur le travail du
           buste
           et
@@ -34,23 +46,11 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/carousel/_DSC9340_4151.jpg" class="img-special" />
-      </div>
-      <div class="col-12 col-lg-6 px-0 px-md-5 d-md-flex align-items-center d-none">
-        <p>
-          Inspirée par l’univers de la modern dance allemande, mon écriture chorégraphique met l’accent sur le travail du
-          buste
-          et
-          des bras auquel je rajoute la pratique du Floor Work. C’est ainsi une recherche constante de comment combiner un
-          engagement corporel dans le mouvement avec fluidité et auto-dérision. J’aime utiliser l’univers de l'absurde et
-          du
-          rire
-          pour enlever les peurs et surpasser ainsi les préjugés.
-        </p>
+        <img src="../assets/img/PhotoDanse2.jpg" class="img-special" />
       </div>
     </div>
     <div class="row mb-5">
-      <div class="col-12 col-lg-6 px-0 px-md-5 d-flex align-items-center">
+      <div class="col-12 col-lg-6 px-0 d-flex align-items-center d-lg-none">
         <p>
           Pour tous les niveaux (du cours enfant jusqu’à l’âge adulte) le cours de danse invite à développer sa
           singularité à
@@ -60,21 +60,48 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/Photo Margaux Danse  NB-004 (1).jpg" class="img-portrait" />
+        <img src="../assets/img/PhotoDanse3.jpg" class="img-portrait" />
+      </div>
+      <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
+        <p class="px-0 px-lg-5">
+          Pour tous les niveaux (du cours enfant jusqu’à l’âge adulte) le cours de danse invite à développer sa
+          singularité à
+          travers la création, l’improvisation et des exercices techniques spécifiques. Rentrer dans le studio de danse,
+          c’est
+          accepter la différence, partager, se questionner et surtout ressortir avec le sourire!
+        </p>
       </div>
     </div>
-    <div class="row">
+    <!-- <div class="row px-0 px-lg-5">
       <div class="col-12 text-center mb-5">
-        Vie de groupe
-        <div class="vr"></div>
-        Respect de soi & des autres
-        <div class="vr"></div>
-        Partage
-        <div class="vr"></div>
-        Autonomie
-        <div class="vr"></div>
-        Bienveillance
+        <div class="row text-center mb-3">
+          <div class="col-auto"></div>
+          <i class="col-2">Vie de groupe</i>
+          <div class="col-3">~</div>
+          <i class="col-2">Partage</i>
+          <div class="col-2 esperluete-box position-relative"><div class="position-absolute top-0 start-50 translate-middle">~</div></div>
+          <i class="col-2">Bienveillance</i>
+        </div>
+        <div class="row text-center">
+          <div class="col-auto"></div>
+          <div class="col-2">~</div>
+          <i class="col-3">Respect de soi & des autres</i>
+          <div class="col-2">~</div>
+          <i class="col-2">Autonomie</i>
+          <div class="col-2">~</div>
+        </div>
       </div>
+    </div> -->
+    <div class="row px-0 px-lg-5 text-center mb-4">
+      <i class="col-12 ">Vie de groupe</i>
+      <i class="col-12 ">~</i>
+      <i class="col-12 ">Partage</i>
+      <i class="col-12 ">~</i>
+      <i class="col-12 ">Bienveillance</i>
+      <i class="col-12 ">~</i>
+      <i class="col-12">Respect de soi & des autres</i>
+      <i class="col-12 ">~</i>
+      <i class="col-12 ">Autonomie</i>
     </div>
   </div>
 </template>
@@ -104,6 +131,15 @@ p {
 
 .img-special {
   width: 85%;
+}
+
+.esperluete-box {
+  font-size: 100px;
+  max-height: 30px;
+  color: brown;
+  font-weight: 900;
+
+  /* font-family: 'Roboto', sans-serif; */
 }
 
 @media (min-width: 991px) {
