@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container mb-5">
     <div class="row">
       <div class="col-12 col-lg-6">
         <h1 class="mb-5 px-0 px-lg-5 text-center">À propos</h1>
@@ -24,7 +24,7 @@
       </div>
     </div>
 
-    <div class="row mb-5">
+    <div class="row">
       <div class="col-12 col-lg-6 d-flex align-items-center d-lg-none">
         <p class="px-0 px-lg-5">
           En 2020 j’intègre l’Institut Supérieur des Arts de Toulouse où j’obtiens mon Diplôme d’Etat de professeure de

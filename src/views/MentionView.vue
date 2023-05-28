@@ -1,7 +1,7 @@
 <template>
-    <div class="container px-0 px-lg-5">
+    <div class="container px-0 px-lg-5 mb-5">
         <h1 class="mb-5">Mentions légales</h1>
-        <div class="mb-4">
+        <div>
             Raison sociale : Margaux Loison<br>
             Numéro SIRET : 918 212 796 00018
             <br><br>

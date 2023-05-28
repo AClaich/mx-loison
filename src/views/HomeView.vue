@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container mb-5">
     <h1 class="mb-3 text-center">Margaux Loison</h1>
     <h4 class="mb-2 text-center">
       Professeure de danse contemporaine

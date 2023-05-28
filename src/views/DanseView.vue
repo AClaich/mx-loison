@@ -1,5 +1,5 @@
 <template>
-  <div class="container">
+  <div class="container mb-5">
     <div class="row">
       <div class="col-12 col-lg-6">
       </div>
@@ -72,7 +72,7 @@
         </p>
       </div>
     </div>
-    <div class="row px-0 px-lg-5 text-center mb-4" style="margin-top:110px;">
+    <div class="row px-0 px-lg-5 text-center" style="margin-top:110px;">
       <span class="col-12 ">Vie de groupe</span>
       <i class="col-12 ">~</i>
       <span class="col-12 ">Partage</span>
