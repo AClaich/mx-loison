@@ -72,36 +72,16 @@
         </p>
       </div>
     </div>
-    <!-- <div class="row px-0 px-lg-5">
-      <div class="col-12 text-center mb-5">
-        <div class="row text-center mb-3">
-          <div class="col-auto"></div>
-          <i class="col-2">Vie de groupe</i>
-          <div class="col-3">~</div>
-          <i class="col-2">Partage</i>
-          <div class="col-2 esperluete-box position-relative"><div class="position-absolute top-0 start-50 translate-middle">~</div></div>
-          <i class="col-2">Bienveillance</i>
-        </div>
-        <div class="row text-center">
-          <div class="col-auto"></div>
-          <div class="col-2">~</div>
-          <i class="col-3">Respect de soi & des autres</i>
-          <div class="col-2">~</div>
-          <i class="col-2">Autonomie</i>
-          <div class="col-2">~</div>
-        </div>
-      </div>
-    </div> -->
-    <div class="row px-0 px-lg-5 text-center mb-4">
-      <i class="col-12 ">Vie de groupe</i>
+    <div class="row px-0 px-lg-5 text-center mb-4" style="margin-top:110px;">
+      <span class="col-12 ">Vie de groupe</span>
       <i class="col-12 ">~</i>
-      <i class="col-12 ">Partage</i>
+      <span class="col-12 ">Partage</span>
       <i class="col-12 ">~</i>
-      <i class="col-12 ">Bienveillance</i>
+      <span class="col-12 ">Bienveillance</span>
       <i class="col-12 ">~</i>
-      <i class="col-12">Respect de soi & des autres</i>
+      <span class="col-12">Respect de soi & des autres</span>
       <i class="col-12 ">~</i>
-      <i class="col-12 ">Autonomie</i>
+      <span class="col-12 ">Autonomie</span>
     </div>
   </div>
 </template>
