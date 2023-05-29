@@ -72,22 +72,41 @@
 
             5. <b>Informations de contact</b><br><br>
 
-            <div class="row">
+            <div class="row mb-lg-3">
                 <div class="col-12 col-lg-6">
                     Margaux Loison<br><br>
 
                     E-mail : <a href="mailto:margauxloisonpro@gmail.com"> margauxloisonpro@gmail.com</a><br>
-                    Instagram : <a href="https://www.instagram.com/margauxloison.pro/" target=”_blank”>Margauxloison.pro</a><br>
-                    Facebook : <a href="https://www.facebook.com/profile.php?id=100093111573881" target=”_blank”>Margaux Loison
+                    Instagram : <a href="https://www.instagram.com/margauxloison.pro/"
+                        target=”_blank”>Margauxloison.pro</a><br>
+                    Facebook : <a href="https://www.facebook.com/profile.php?id=100093111573881" target=”_blank”>Margaux
+                        Loison
                         pro</a><br><br>
                 </div>
                 <div class="col-12 col-lg-6">
                     Stéphan Gabrielli<br><br>
 
                     Site : <a href="http://stephan-photographe.fr/" target=”_blank”>Stephan-photographe</a><br>
-                    Instagram : <a
-                        href="https://www.instagram.com/stephan_photographies_pro/" target=”_blank”>Stephan_photographies_pro</a><br>
-                    Facebook : <a href="https://facebook.com/StephanPhotographies" target=”_blank”>Stephan Photographies</a><br><br>
+                    Instagram : <a href="https://www.instagram.com/stephan_photographies_pro/"
+                        target=”_blank”>Stephan_photographies_pro</a><br>
+                    Facebook : <a href="https://facebook.com/StephanPhotographies" target=”_blank”>Stephan
+                        Photographies</a><br><br>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-12 col-lg-6">
+                    Henri Aubron<br><br>
+
+                    Site Filckr : <a href="https://www.flickr.com/photos/77195183@N04/with/51691292623/"
+                        target=”_blank”>Henri Aubron</a><br>
+                    Instagram : <a href="https://instagram.com/henriaubron?igshid=MzRlODBiNWFlZA==" target=”_blank”>Henri
+                        aubron</a><br><br>
+                </div>
+                <div class="col-12 col-lg-6">
+                    Alexis Claich<br><br>
+
+                    Linkedin : <a href="https://www.linkedin.com/in/alexis-claich-5897a7b9/" target=”_blank”>Alexis
+                        Claich</a><br><br>
                 </div>
             </div>
 
