@@ -24,7 +24,7 @@ import NavBarView from './views/NavBarView.vue'
 
         </div>
         <div class="col-6 col-lg-4 text-end">
-          <a href="/mention">Mentions légales & politiques</a>
+          <router-link to="/mention">Mentions légales & politiques</router-link>
         </div>
       </div>
     </div>
