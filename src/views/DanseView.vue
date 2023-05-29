@@ -132,7 +132,7 @@ p {
   }
 }
 
-@media (min-width: 400px) {
+@media (min-width: 450px) {
   .img-portrait {
     width: 50%;
   }

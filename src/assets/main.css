@@ -21,7 +21,7 @@
   background-attachment: fixed;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 450px) {
   #app {
     background-image: url('../assets/img/background.jpg');
     background-repeat: no-repeat;
@@ -42,23 +42,4 @@ a,
   -webkit-backdrop-filter: saturate(200%) blur(30px);
   backdrop-filter: saturate(200%) blur(30px);
   background-color: rgba(255, 255, 255, 0.8) !important;
-}
-
-@media (hover: hover) {
-  /* a:hover {
-    background-color: hsla(160, 100%, 37%, 0.2);
-  } */
-}
-
-@media (min-width: 1024px) {
-  body {
-    /* display: flex;
-    place-items: center; */
-  }
-
-  #app {
-    /* display: grid;
-    grid-template-columns: 1fr 1fr; */
-    /* padding: 0 2rem; */
-  }
 }

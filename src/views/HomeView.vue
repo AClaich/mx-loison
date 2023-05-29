@@ -34,7 +34,7 @@ p {
   width: 80%;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 450px) {
   .img-accueil {
     width: 38%;
   }

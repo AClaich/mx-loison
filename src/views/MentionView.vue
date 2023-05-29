@@ -111,7 +111,7 @@
             </div>
 
 
-            Le présent document a été mis à jour le 27/05/2023.<br>
+            Le présent document a été mis à jour le 29/05/2023.<br>
         </div>
     </div>
 </template>

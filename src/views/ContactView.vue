@@ -123,7 +123,7 @@ a {
     width: 85%;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 450px) {
     .w-carousel {
         width: 60%;
     }

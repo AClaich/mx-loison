@@ -1,7 +1,8 @@
 <template>
     <nav class="navbar navbar-expand-lg rounded m-auto blur">
         <div class="container ps-3 px-lg-5">
-            <a class="navbar-brand" href="/"><b class="title">Margaux Loison</b></a>
+            <router-link class="navbar-brand" to="/"><b class="title">Margaux Loison</b></router-link>
+            <!-- <a class="navbar-brand" href="/"><b class="title">Margaux Loison</b></a> -->
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02"
                 aria-controls="navbarTogglerDemo02" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -9,22 +10,23 @@
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav mx-0 mx-lg-auto">
                     <li class="nav-item mx-0 ms-lg-auto me-lg-5">
-                        <a class="nav-link" href="/danse"><b>Danse</b>
-                        </a>
+                        <router-link class="nav-link" to="/danse"><b>Danse</b></router-link>
+                        <!-- <a class="nav-link" href="/danse"><b>Danse</b>
+                        </a> -->
                     </li>
                     <li class="nav-item mx-0 mx-lg-5">
-                        <a class="nav-link" href="/about"><b>À propos</b>
-                        </a>
+                        <router-link class="nav-link" to="/about"><b>À propos</b></router-link>
+                        <!-- <a class="nav-link" href="/about"><b>À propos</b>
+                        </a> -->
                     </li>
                     <li class="nav-item mx-0 mx-lg-5">
-                        <a class="nav-link" href="/diplome"><b>Diplômes & certificats</b></a>
+                        <router-link class="nav-link" to="/diplome"><b>Diplômes & certificats</b></router-link>
+                        <!-- <a class="nav-link" href="/diplome"><b>Diplômes & certificats</b></a> -->
                     </li>
-                    <!-- <li class="nav-item">
-                        <a class="nav-link" href="">Où me trouver</a>
-                    </li> -->
                     <li class="nav-item mx-0 ms-lg-5 me-lg-auto">
-                        <a class="nav-link" href="/contact"><b>Contact</b>
-                        </a>
+                        <router-link class="nav-link" to="/contact"><b>Contact</b></router-link>
+                        <!-- <a class="nav-link" href="/contact"><b>Contact</b>
+                        </a> -->
                     </li>
                 </ul>
                 <div class="row">

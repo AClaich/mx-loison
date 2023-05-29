@@ -41,7 +41,7 @@
     width: 85%;
 }
 
-@media (min-width: 400px) {
+@media (min-width: 450px) {
     .img-diplome {
         width: 85%;
     }
