@@ -5,7 +5,7 @@
       Professeure de danse contemporaine
     </h4>
     <div class="text-center mb-3">
-      <img src="../assets/img/PhotoHome.jpg" class="img-accueil" />
+      <img src="../assets/img/PhotoHome.jpg" class="img-accueil" fetchpriority="high"/>
     </div>
     <p class="d-none d-lg-flex">
       <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i> <br class="d-lg-none d-flex"> &nbsp; - F.
