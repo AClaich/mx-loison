@@ -14,8 +14,8 @@
           Je découvre l’univers de la danse au sein du Conservatoire de Musique et de Danse de Lanester. D’abord formée en
           modern jazz, c’est ma rencontre avec la danse contemporaine qui me pousse sur la voie professionnelle. A 20 ans
           je décide de me former d’abord au Pont Supérieur de Nantes puis à Toulouse où j’intègre la formation
-          Danseur-Interprète
-          chez James Carles. Ce parcours m’offre la possibilité de traverser un large répertoire de pièces chorégraphiques
+          Danseur-Interprète au centre chorégraphique James Carles.
+          Ce parcours m’offre la possibilité de traverser un large répertoire de pièces chorégraphiques
           et de rencontrer des personnalités comme Nina Vallon, Myriam Naisy, TJ Lowe ou encore Peter Mika.
         </p>
       </div>
@@ -65,13 +65,6 @@
 </template>
 
 <style>
-/* @media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-} */
 p {
   text-align: justify;
 }

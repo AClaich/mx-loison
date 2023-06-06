@@ -9,21 +9,41 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav mx-0 mx-lg-auto">
-                    <li class="nav-item mx-0 ms-lg-auto me-lg-5">
+                    <li class="nav-item mx-0 ms-lg-auto me-lg-5 d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/danse"><b>Danse</b></router-link>
                         <!-- <a class="nav-link" href="/danse"><b>Danse</b>
                         </a> -->
                     </li>
-                    <li class="nav-item mx-0 mx-lg-5">
+                    <li class="nav-item mx-0 mx-lg-5 d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/about"><b>À propos</b></router-link>
                         <!-- <a class="nav-link" href="/about"><b>À propos</b>
                         </a> -->
                     </li>
-                    <li class="nav-item mx-0 mx-lg-5">
+                    <li class="nav-item mx-0 mx-lg-5 d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/diplome"><b>Diplômes & certificats</b></router-link>
                         <!-- <a class="nav-link" href="/diplome"><b>Diplômes & certificats</b></a> -->
                     </li>
-                    <li class="nav-item mx-0 ms-lg-5 me-lg-auto">
+                    <li class="nav-item mx-0 ms-lg-5 me-lg-auto d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+                        <router-link class="nav-link" to="/contact"><b>Contact</b></router-link>
+                        <!-- <a class="nav-link" href="/contact"><b>Contact</b>
+                        </a> -->
+                    </li>
+
+                    <li class="nav-item mx-0 ms-lg-auto me-lg-5 d-lg-flex d-none">
+                        <router-link class="nav-link" to="/danse"><b>Danse</b></router-link>
+                        <!-- <a class="nav-link" href="/danse"><b>Danse</b>
+                        </a> -->
+                    </li>
+                    <li class="nav-item mx-0 mx-lg-5 d-lg-flex d-none">
+                        <router-link class="nav-link" to="/about"><b>À propos</b></router-link>
+                        <!-- <a class="nav-link" href="/about"><b>À propos</b>
+                        </a> -->
+                    </li>
+                    <li class="nav-item mx-0 mx-lg-5 d-lg-flex d-none">
+                        <router-link class="nav-link" to="/diplome"><b>Diplômes & certificats</b></router-link>
+                        <!-- <a class="nav-link" href="/diplome"><b>Diplômes & certificats</b></a> -->
+                    </li>
+                    <li class="nav-item mx-0 ms-lg-5 me-lg-auto d-lg-flex d-none">
                         <router-link class="nav-link" to="/contact"><b>Contact</b></router-link>
                         <!-- <a class="nav-link" href="/contact"><b>Contact</b>
                         </a> -->
