@@ -9,7 +9,7 @@
         </div>
         <div class="row mb-5">
             <div class="col-12 col-lg-6 text-center mb-5">
-                <img src="../assets/img/PhotoDiplome.jpg" class="img-diplome" alt="...">
+                <img src="../assets/img/PhotoDiplome.jpg" class="img-diplome" fetchpriority="high">
             </div>
             <div class="col-12 col-lg-6 d-flex align-items-center">
                 <p class="px-0 ps-lg-5 text-start">
@@ -30,13 +30,6 @@
 </template>
   
 <style>
-/* @media (min-width: 1024px) {
-    .about {
-      min-height: 100vh;
-      display: flex;
-      align-items: center;
-    }
-  } */
 .img-diplome {
     width: 85%;
 }

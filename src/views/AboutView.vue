@@ -20,7 +20,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoAbout1.jpg" class="img-portrait" />
+        <img src="../assets/img/PhotoAbout1.jpg" class="img-portrait" fetchpriority="high" />
       </div>
     </div>
 
@@ -42,7 +42,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoAbout2.jpg" class="img-paysage" />
+        <img src="../assets/img/PhotoAbout2.jpg" class="img-paysage" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 px-0 px-lg-5 d-lg-flex align-items-center d-none">
         <p>

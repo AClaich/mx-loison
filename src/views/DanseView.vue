@@ -19,7 +19,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoDanse1.jpg" class="img-portrait" />
+        <img src="../assets/img/PhotoDanse1.jpg" class="img-portrait" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
         <p class="px-0 px-lg-5">
@@ -46,7 +46,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoDanse2.jpg" class="img-special" />
+        <img src="../assets/img/PhotoDanse2.jpg" class="img-special" fetchpriority="high" />
       </div>
     </div>
     <div class="row mb-5">
@@ -60,7 +60,7 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoDanse3.jpg" class="img-portrait" />
+        <img src="../assets/img/PhotoDanse3.jpg" class="img-portrait" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
         <p class="px-0 px-lg-5">
