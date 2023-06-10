@@ -5,10 +5,10 @@
       Professeure de danse contemporaine
     </h4>
     <div class="mb-3 d-none d-lg-flex justify-content-center">
-      <img src="../assets/img/PhotoHomeDesktop.jpg" fetchpriority="high"/>
+      <img src="../assets/img/PhotoHomeDesktop.webp" fetchpriority="high"/>
     </div>
     <div class="d-flex d-lg-none justify-content-center mb-3">
-      <img src="../assets/img/PhotoHomeMobile.jpg" fetchpriority="high"/>
+      <img src="../assets/img/PhotoHomeMobile.webp" fetchpriority="high"/>
     </div>
     <p class="d-none d-lg-flex">
       <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i> <br class="d-lg-none d-flex"> &nbsp; - F.

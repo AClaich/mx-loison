@@ -19,10 +19,10 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
-        <img src="../assets/img/PhotoDanse1Desktop.jpg" fetchpriority="high" />
+        <img src="../assets/img/PhotoDanse1Desktop.webp" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
-        <img src="../assets/img/PhotoDanse1Mobile.jpg" fetchpriority="high" />
+        <img src="../assets/img/PhotoDanse1Mobile.webp" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
         <p class="px-0 px-lg-5">
@@ -49,10 +49,10 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
-        <img src="../assets/img/PhotoDanse2Desktop.jpg" fetchpriority="high" />
+        <img src="../assets/img/PhotoDanse2Desktop.webp" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
-        <img src="../assets/img/PhotoDanse2Mobile.jpg" fetchpriority="high" />
+        <img src="../assets/img/PhotoDanse2Mobile.webp" fetchpriority="high" />
       </div>
     </div>
     <div class="row mb-5">
@@ -66,10 +66,10 @@
         </p>
       </div>
       <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
-        <img src="../assets/img/PhotoDanse3Desktop.jpg" fetchpriority="high" />
+        <img src="../assets/img/PhotoDanse3Desktop.webp" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
-        <img src="../assets/img/PhotoDanse3Desktop.jpg" fetchpriority="high" />
+        <img src="../assets/img/PhotoDanse3Desktop.webp" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
         <p class="px-0 px-lg-5">

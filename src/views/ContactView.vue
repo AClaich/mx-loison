@@ -58,23 +58,23 @@
                 <div id="carouselExampleFade" class="carousel slide w-carousel" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="3000">
-                            <img src="../assets/img//carousel-2/PhotoCarousel1Desktop.jpg" class="d-block"
+                            <img src="../assets/img//carousel-2/PhotoCarousel1Desktop.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel2Desktop.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel2Desktop.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel3Desktop.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel3Desktop.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel4Desktop.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel4Desktop.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel5Desktop.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel5Desktop.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                     </div>
@@ -94,23 +94,23 @@
                 <div id="carouselExampleFadeMobile" class="carousel slide w-carousel" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="3000">
-                            <img src="../assets/img//carousel-2/PhotoCarousel1Mobile.jpg" class="d-block"
+                            <img src="../assets/img//carousel-2/PhotoCarousel1Mobile.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel2Mobile.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel2Mobile.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel3Mobile.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel3Mobile.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel4Mobile.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel4Mobile.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel5Mobile.jpg" class="d-block"
+                            <img src="../assets/img/carousel-2/PhotoCarousel5Mobile.webp" class="d-block"
                                 fetchpriority="high">
                         </div>
                     </div>
