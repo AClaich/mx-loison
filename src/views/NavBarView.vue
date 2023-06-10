@@ -8,16 +8,20 @@
             </button>
             <div class="collapse navbar-collapse" id="navbarTogglerDemo02">
                 <ul class="navbar-nav mx-0 mx-lg-auto">
-                    <li class="nav-item mx-0 ms-lg-auto me-lg-5 d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+                    <li class="nav-item mx-0 ms-lg-auto me-lg-5 d-flex d-lg-none" data-bs-toggle="collapse"
+                        data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/danse"><b>Danse</b></router-link>
                     </li>
-                    <li class="nav-item mx-0 mx-lg-5 d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+                    <li class="nav-item mx-0 mx-lg-5 d-flex d-lg-none" data-bs-toggle="collapse"
+                        data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/about"><b>À propos</b></router-link>
                     </li>
-                    <li class="nav-item mx-0 mx-lg-5 d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+                    <li class="nav-item mx-0 mx-lg-5 d-flex d-lg-none" data-bs-toggle="collapse"
+                        data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/diplome"><b>Diplômes & certificats</b></router-link>
                     </li>
-                    <li class="nav-item mx-0 ms-lg-5 me-lg-auto d-flex d-lg-none" data-bs-toggle="collapse" data-bs-target="#navbarTogglerDemo02">
+                    <li class="nav-item mx-0 ms-lg-5 me-lg-auto d-flex d-lg-none" data-bs-toggle="collapse"
+                        data-bs-target="#navbarTogglerDemo02">
                         <router-link class="nav-link" to="/contact"><b>Contact</b></router-link>
                     </li>
 
@@ -69,7 +73,8 @@ nav {
     font-size: 22px;
 }
 
-#facebook, #linkedin {
+#facebook,
+#linkedin {
     color: #3b5998;
     font-size: 22px;
 }
@@ -85,5 +90,4 @@ nav {
     font-size: 14px;
     background: #d6249f;
     background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%, #d6249f 60%, #285AEB 90%);
-}
-</style>
+}</style>

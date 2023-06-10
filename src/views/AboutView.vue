@@ -19,8 +19,11 @@
           et de rencontrer des personnalités comme Nina Vallon, Myriam Naisy, TJ Lowe ou encore Peter Mika.
         </p>
       </div>
-      <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoAbout1.jpg" class="img-portrait" fetchpriority="high" />
+      <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
+        <img src="../assets/img/PhotoAbout1Desktop.jpg" fetchpriority="high" />
+      </div>
+      <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
+        <img src="../assets/img/PhotoAbout1Mobile.jpg" fetchpriority="high" />
       </div>
     </div>
 
@@ -41,8 +44,11 @@
           corps pour un engagement physique comme le travail du Floor Work. -->
         </p>
       </div>
-      <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoAbout2.jpg" class="img-paysage" fetchpriority="high" />
+      <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
+        <img src="../assets/img/PhotoAbout2Desktop.jpg" fetchpriority="high" />
+      </div>
+      <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
+        <img src="../assets/img/PhotoAbout2Mobile.jpg" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 px-0 px-lg-5 d-lg-flex align-items-center d-none">
         <p>

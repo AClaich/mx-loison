@@ -54,27 +54,27 @@
                     </div>
                 </div>
             </div>
-            <div class="col-12 col-lg-6 d-flex justify-content-center align-items-center">
+            <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center align-items-center">
                 <div id="carouselExampleFade" class="carousel slide w-carousel" data-bs-ride="carousel">
                     <div class="carousel-inner">
                         <div class="carousel-item active" data-bs-interval="3000">
-                            <img src="../assets/img//carousel-2/PhotoCarousel1.jpg" class="d-block w-100"
+                            <img src="../assets/img//carousel-2/PhotoCarousel1Desktop.jpg" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel2.jpg" class="d-block w-100"
+                            <img src="../assets/img/carousel-2/PhotoCarousel2Desktop.jpg" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel3.jpg" class="d-block w-100"
+                            <img src="../assets/img/carousel-2/PhotoCarousel3Desktop.jpg" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel4.jpg" class="d-block w-100"
+                            <img src="../assets/img/carousel-2/PhotoCarousel4Desktop.jpg" class="d-block"
                                 fetchpriority="high">
                         </div>
                         <div class="carousel-item" data-bs-interval="3000">
-                            <img src="../assets/img/carousel-2/PhotoCarousel5.jpg" class="d-block w-100"
+                            <img src="../assets/img/carousel-2/PhotoCarousel5Desktop.jpg" class="d-block"
                                 fetchpriority="high">
                         </div>
                     </div>
@@ -84,6 +84,42 @@
                         <span class="visually-hidden">Précédent</span>
                     </button>
                     <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFade"
+                        data-bs-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Suivant</span>
+                    </button>
+                </div>
+            </div>
+            <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center align-items-center">
+                <div id="carouselExampleFadeMobile" class="carousel slide w-carousel" data-bs-ride="carousel">
+                    <div class="carousel-inner">
+                        <div class="carousel-item active" data-bs-interval="3000">
+                            <img src="../assets/img//carousel-2/PhotoCarousel1Mobile.jpg" class="d-block"
+                                fetchpriority="high">
+                        </div>
+                        <div class="carousel-item" data-bs-interval="3000">
+                            <img src="../assets/img/carousel-2/PhotoCarousel2Mobile.jpg" class="d-block"
+                                fetchpriority="high">
+                        </div>
+                        <div class="carousel-item" data-bs-interval="3000">
+                            <img src="../assets/img/carousel-2/PhotoCarousel3Mobile.jpg" class="d-block"
+                                fetchpriority="high">
+                        </div>
+                        <div class="carousel-item" data-bs-interval="3000">
+                            <img src="../assets/img/carousel-2/PhotoCarousel4Mobile.jpg" class="d-block"
+                                fetchpriority="high">
+                        </div>
+                        <div class="carousel-item" data-bs-interval="3000">
+                            <img src="../assets/img/carousel-2/PhotoCarousel5Mobile.jpg" class="d-block"
+                                fetchpriority="high">
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFadeMobile"
+                        data-bs-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="visually-hidden">Précédent</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleFadeMobile"
                         data-bs-slide="next">
                         <span class="carousel-control-next-icon" aria-hidden="true"></span>
                         <span class="visually-hidden">Suivant</span>

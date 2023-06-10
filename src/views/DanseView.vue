@@ -18,8 +18,11 @@
           l’amusement.
         </p>
       </div>
-      <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoDanse1.jpg" class="img-portrait" fetchpriority="high" />
+      <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
+        <img src="../assets/img/PhotoDanse1Desktop.jpg" fetchpriority="high" />
+      </div>
+      <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
+        <img src="../assets/img/PhotoDanse1Mobile.jpg" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
         <p class="px-0 px-lg-5">
@@ -45,8 +48,11 @@
           pour enlever les peurs et surpasser ainsi les préjugés.
         </p>
       </div>
-      <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoDanse2.jpg" class="img-special" fetchpriority="high" />
+      <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
+        <img src="../assets/img/PhotoDanse2Desktop.jpg" fetchpriority="high" />
+      </div>
+      <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
+        <img src="../assets/img/PhotoDanse2Mobile.jpg" fetchpriority="high" />
       </div>
     </div>
     <div class="row mb-5">
@@ -59,8 +65,11 @@
           accepter la différence, partager, se questionner et surtout ressortir avec le sourire!
         </p>
       </div>
-      <div class="col-12 col-lg-6 text-center">
-        <img src="../assets/img/PhotoDanse3.jpg" class="img-portrait" fetchpriority="high" />
+      <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center">
+        <img src="../assets/img/PhotoDanse3Desktop.jpg" fetchpriority="high" />
+      </div>
+      <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center">
+        <img src="../assets/img/PhotoDanse3Desktop.jpg" fetchpriority="high" />
       </div>
       <div class="col-12 col-lg-6 d-lg-flex align-items-center d-none">
         <p class="px-0 px-lg-5">
@@ -87,13 +96,6 @@
 </template>
 
 <style>
-/* @media (min-width: 1024px) {
-  .about {
-    min-height: 100vh;
-    display: flex;
-    align-items: center;
-  }
-} */
 p {
   text-align: justify;
   display: flex;
@@ -101,25 +103,12 @@ p {
   align-items: center;
 }
 
-.img-portrait {
-  width: 85%;
-}
-
-.img-paysage {
-  width: 85%;
-}
-
-.img-special {
-  width: 85%;
-}
 
 .esperluete-box {
   font-size: 100px;
   max-height: 30px;
   color: brown;
   font-weight: 900;
-
-  /* font-family: 'Roboto', sans-serif; */
 }
 
 @media (min-width: 991px) {
@@ -129,20 +118,6 @@ p {
     display: flex;
     justify-content: center;
     align-items: center;
-  }
-}
-
-@media (min-width: 450px) {
-  .img-portrait {
-    width: 50%;
-  }
-
-  .img-paysage {
-    width: 75%;
-  }
-
-  .img-special {
-    width: 65%;
   }
 }
 </style>

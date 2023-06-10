@@ -74,7 +74,7 @@
 
             <div class="row mb-lg-3">
                 <div class="col-12 col-lg-6">
-                    Margaux Loison<br><br>
+                    <b>Margaux Loison</b><br><br>
 
                     E-mail : <a href="mailto:margauxloisonpro@gmail.com"> margauxloisonpro@gmail.com</a><br>
                     Instagram : <a href="https://www.instagram.com/margauxloison.pro/"
@@ -84,7 +84,7 @@
                         pro</a><br><br>
                 </div>
                 <div class="col-12 col-lg-6">
-                    Stéphan Gabrielli<br><br>
+                    <b>Stéphan Gabrielli</b><br><br>
 
                     Site : <a href="http://stephan-photographe.fr/" target=”_blank”>Stephan-photographe</a><br>
                     Instagram : <a href="https://www.instagram.com/stephan_photographies_pro/"
@@ -95,7 +95,7 @@
             </div>
             <div class="row">
                 <div class="col-12 col-lg-6">
-                    Henri Aubron<br><br>
+                    <b>Henri Aubron</b><br><br>
 
                     Site Filckr : <a href="https://www.flickr.com/photos/77195183@N04/with/51691292623/"
                         target=”_blank”>Henri Aubron</a><br>
@@ -103,7 +103,7 @@
                         aubron</a><br><br>
                 </div>
                 <div class="col-12 col-lg-6">
-                    Alexis Claich<br><br>
+                    <b>Alexis Claich</b><br><br>
 
                     Linkedin : <a href="https://www.linkedin.com/in/alexis-claich-5897a7b9/" target=”_blank”>Alexis
                         Claich</a><br><br>
@@ -111,7 +111,7 @@
             </div>
 
 
-            Le présent document a été mis à jour le 29/05/2023.<br>
+            Le présent document a été mis à jour le 10/06/2023.<br>
         </div>
     </div>
 </template>

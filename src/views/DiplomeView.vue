@@ -8,8 +8,11 @@
             </div>
         </div>
         <div class="row mb-5">
-            <div class="col-12 col-lg-6 text-center mb-5">
-                <img src="../assets/img/PhotoDiplome.jpg" class="img-diplome" fetchpriority="high">
+            <div class="col-12 col-lg-6 d-none d-lg-flex justify-content-center mb-5">
+                <img src="../assets/img/PhotoDiplomeDesktop.jpg" fetchpriority="high">
+            </div>
+            <div class="col-12 col-lg-6 d-flex d-lg-none justify-content-center mb-5">
+                <img src="../assets/img/PhotoDiplomeMobile.jpg" fetchpriority="high">
             </div>
             <div class="col-12 col-lg-6 d-flex align-items-center">
                 <p class="px-0 ps-lg-5 text-start">
@@ -28,16 +31,3 @@
         </div>
     </div>
 </template>
-  
-<style>
-.img-diplome {
-    width: 85%;
-}
-
-@media (min-width: 450px) {
-    .img-diplome {
-        width: 85%;
-    }
-}
-</style>
-  

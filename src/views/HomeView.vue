@@ -4,8 +4,11 @@
     <h4 class="mb-2 text-center">
       Professeure de danse contemporaine
     </h4>
-    <div class="text-center mb-3">
-      <img src="../assets/img/PhotoHome.jpg" class="img-accueil" fetchpriority="high"/>
+    <div class="mb-3 d-none d-lg-flex justify-content-center">
+      <img src="../assets/img/PhotoHomeDesktop.jpg" fetchpriority="high"/>
+    </div>
+    <div class="d-flex d-lg-none justify-content-center mb-3">
+      <img src="../assets/img/PhotoHomeMobile.jpg" fetchpriority="high"/>
     </div>
     <p class="d-none d-lg-flex">
       <i>“Le danseur ne porte-t-il pas son oreille - dans ses orteils!” </i> <br class="d-lg-none d-flex"> &nbsp; - F.
@@ -21,15 +24,5 @@
 <style>
 p {
   text-align: center;
-}
-
-.img-accueil {
-  width: 80%;
-}
-
-@media (min-width: 450px) {
-  .img-accueil {
-    width: 38%;
-  }
 }
 </style>
